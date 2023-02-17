@@ -6,5 +6,8 @@
 * A demonstration of applying CI - Continuous Intergration process based on GitHub Actionsand Ant build tool
 * ...
 
+### Screenshots
+![source_code_junit](https://github.com/motngaynanglen/mathutil-ant/blob/main/screenshots/source_code_with_junit-4.png)
+
 ### Connect me via superminervip@gmail.com
 #### Copyright &#169; 2023 motngaynanglen
